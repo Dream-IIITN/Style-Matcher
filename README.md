@@ -3,7 +3,20 @@
 StyleMatcher is an intelligent fashion recommendation system that combines computer vision and natural language processing to provide personalized clothing suggestions based on user preferences and uploaded images.
 
 ## Dataset
-[Add Kaggle Dataset Link Here]
+
+Make sure to use below dataset for database and model access as its too big to upload on Github
+[[Kaggle Dataset Link](https://www.kaggle.com/datasets/dreamiiitn/deepfashion-multimodal/data)]
+
+## Technical Stack 🛠
+
+- **Frontend**: Streamlit
+- **Backend**: Flask
+- **AI Models**: PyTorch
+- **Image Processing**: Vision Transformer
+- **Text Processing**: HuggingFace Transformer
+- **Database**: Sqlite DB
+
+## Output Video :
 
 ## How It Works 🔍
 
@@ -24,23 +37,6 @@ StyleMatcher is an intelligent fashion recommendation system that combines compu
 - **User-Friendly Interface**: Clean, intuitive design with clear sections
 - **Scalable Architecture**: Separate frontend and backend for easy scaling
 
-## Use Cases 💡
-
-1. **Personal Shopping**
-   - Find similar items to clothes you like
-   - Discover new styles based on preferences
-
-2. **E-commerce Integration**
-   - Product recommendations for online stores
-   - Similar item suggestions
-
-3. **Fashion Inspiration**
-   - Explore new style combinations
-   - Get personalized outfit ideas
-
-4. **Retail Applications**
-   - In-store kiosk systems
-   - Virtual styling assistance
 
 ## Benefits 🌟
 
@@ -56,14 +52,7 @@ StyleMatcher is an intelligent fashion recommendation system that combines compu
 - Reduce returns through better matching
 - Enhance customer satisfaction
 
-## Technical Stack 🛠
 
-- **Frontend**: Streamlit
-- **Backend**: Flask
-- **AI Models**: PyTorch
-- **Image Processing**: Vision Transformer
-- **Text Processing**: Sentence Transformer
-- **Database**: Custom Feature Database
 
 ## Getting Started 🚀
 
