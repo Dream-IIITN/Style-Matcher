@@ -4,7 +4,7 @@ StyleMatcher is an intelligent fashion recommendation system that combines compu
 
 ## Dataset
 
-Make sure to use below dataset for database and model access as its too big to upload on Github
+Make sure to use given dataset for database and model access as its too big to upload on Github
 [[Kaggle Dataset Link](https://www.kaggle.com/datasets/dreamiiitn/deepfashion-multimodal/data)]
 
 ## Technical Stack 🛠
@@ -17,6 +17,7 @@ Make sure to use below dataset for database and model access as its too big to u
 - **Database**: Sqlite DB
 
 ## Output Video :
+https://github.com/user-attachments/assets/df2d83db-2260-4977-bd8d-af5d30d481fb
 
 ## How It Works 🔍
 
