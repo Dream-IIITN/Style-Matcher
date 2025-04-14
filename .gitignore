@@ -1,0 +1,42 @@
+# Image folders
+# Data directories
+/data/female_fashion/
+/data/male_fashion/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Model files and checkpoints
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.weights
+
+# Large media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.avi
+
+# Cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Environment and IDE
+.env
+.venv
+venv/
+.idea/
+.vscode/
+
+# Log files
+*.log
+logs/

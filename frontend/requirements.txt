@@ -1,0 +1,9 @@
+flask
+torch
+torchvision
+transformers
+sentence-transformers
+scikit-learn
+pandas
+numpy
+Pillow

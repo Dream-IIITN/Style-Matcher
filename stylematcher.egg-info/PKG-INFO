@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: stylematcher
+Version: 0.1
+Requires-Dist: torch
+Requires-Dist: Pillow
+Requires-Dist: transformers
+Requires-Dist: sentence-transformers
+Requires-Dist: pandas
+Requires-Dist: tqdm
+Requires-Dist: flask
+Requires-Dist: streamlit
